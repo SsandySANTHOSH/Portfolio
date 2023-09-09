@@ -1,5 +1,5 @@
 //import React from 'react';
-import Profile from "../../assets/wp11561530.png";
+import Profile from "../../assets/wp11561530-min.png";
 import { Link } from 'react-router-dom';
 import { FaArrowRight } from 'react-icons/fa';
 import "./home.css";
