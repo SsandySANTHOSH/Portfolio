@@ -1,5 +1,5 @@
 //import React from 'react';
-//import Profile from "../../assets/hiimage.jpg";
+import Profile from "../../assets/wp11561530.png";
 import { Link } from 'react-router-dom';
 import { FaArrowRight } from 'react-icons/fa';
 import "./home.css";
@@ -23,7 +23,7 @@ const Home = () => {
         style={{ scaleX: scrollYProgress }}
       />
       <Fade className='zIndex'>
-        <img src='https://wallpapercave.com/wp/wp11561530.png' alt="" className='home__img' />
+        <img src= {Profile} alt="" className='home__img' />
       </Fade>
       <div className="home__content">
         <div className="home__data">
