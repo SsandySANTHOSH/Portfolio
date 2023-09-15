@@ -168,6 +168,7 @@ import {
       year: '2019 -  2022',
       title: 'BSC  <span> Karpagam Collage of Arts and Science</span>',
       desc: 'Scored 67%',
+      
     },
     {
       id: 8,
