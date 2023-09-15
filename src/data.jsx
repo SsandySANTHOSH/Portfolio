@@ -167,7 +167,7 @@ import {
       icon: <FaGraduationCap />,
       year: '2019 -  2022',
       title: 'BSC  <span> Karpagam Collage of Arts and Science</span>',
-      desc: 'Scored 83%',
+      desc: 'Scored 67%',
     },
     {
       id: 8,
@@ -175,7 +175,7 @@ import {
       icon: <FaGraduationCap />,
       year: '2018-2019',
       title: 'HSC <span> N.V Matric Higher Secondary School </span>',
-      desc: 'Scored 85% ',
+      desc: 'Scored 63% ',
     },
   
     {
@@ -184,7 +184,7 @@ import {
       icon: <FaGraduationCap />,
       year: '2016-2017',
       title: 'SSLC <span> N.V Matric Higher Secondary School </span>',
-      desc: 'Scored 91.6% ',
+      desc: 'Scored 66.6% ',
     },
   ];
   
