@@ -38,7 +38,7 @@ const PortfolioItem = ({ img, title, details }) => {
                                                     {title}
                                                 </span>
                                                 <span className="item__details">
-                                                    {title === "Preview : " || title === "Code : " ? parse(`<a href="${desc}" target="_blank">${desc}</a>`) : desc}
+                                                    {title === "Preview : " || title === "Code : " ||title ==='Back End : ' || title === 'Front End : '? parse(`<a href="${desc}" target="_blank">${desc}</a>`) : desc}
                                                 </span>
                                             </div>
                                         </li>

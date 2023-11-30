@@ -83,7 +83,7 @@ import {
     {
       id: 2,
       title: 'Last Name : ',
-      description: '',
+      description: 'E',
     },
   
     {
@@ -98,11 +98,11 @@ import {
       description: 'Indian',
     },
   
-    {
-      id: 5,
-      title: 'Github : ',
-      description: 'SsandySANTHOSH',
-    },
+    // {
+    //   id: 5,
+    //   title: 'Github : ',
+    //   description: 'SsandySANTHOSH',
+    // },
   
     {
       id: 6,
@@ -122,11 +122,11 @@ import {
       description: 'santhoshs4717@mail.com',
     },
   
-    {
-      id: 9,
-      title: 'LinkedIn : ',
-      description: 'santhosh6',
-    },
+    // {
+    //   id: 9,
+    //   title: 'LinkedIn : ',
+    //   description: 'santhosh6',
+    // },
   
     {
       id: 10,
@@ -147,19 +147,32 @@ import {
       title: ' Years Experience in <br /> Nss',
     },
   ];
+
+     export const certificate = [
+      {
+        id: 6,
+        category: 'certification',
+        icon: <FaGraduationCap />,
+        year: ' 2023 - Present',
+        title: 'Full Stack Development <span> Guvi</span>',
+        desc: '',
+      },
+
+
+     ]
   
   export const resume = [
    
    
 
-    {
-      id: 6,
-      category: 'education',
-      icon: <FaGraduationCap />,
-      year: ' 2023 - Present',
-      title: 'Full Stack Development <span> Guvi</span>',
-      desc: 'Currently Pursuing',
-    },
+    // {
+    //   id: 6,
+    //   category: 'education',
+    //   icon: <FaGraduationCap />,
+    //   year: ' 2023 - Present',
+    //   title: 'Full Stack Development <span> Guvi</span>',
+    //   desc: 'Currently Pursuing',
+    // },
   
     {
       id: 7,
@@ -262,8 +275,18 @@ import {
           desc: 'Calculate your expense annd income',
         },
         {
+          icon: <FaCode />,
+          title: 'Tech Used : ',
+          desc: 'React JS, Node js ,Mongodb',
+        },
+        {
           icon: <FiExternalLink />,
-          title: 'Code : ',
+          title: 'Front End : ',
+          desc: 'https://github.com/SsandySANTHOSH/PROJECT-PETTYCASH-Frontendnew.git',
+        },
+        {
+          icon: <FiExternalLink />,
+          title: 'Back End : ',
           desc: 'https://github.com/SsandySANTHOSH/PROJECT-PETTYCASH-Frontendnew.git',
         },
         {
@@ -271,11 +294,7 @@ import {
           title: 'Preview : ',
           desc: 'https://idyllic-frangipane-c4f481.netlify.app',
         },
-        {
-          icon: <FaCode />,
-          title: 'Tech Used : ',
-          desc: 'React JS, Node js ,Mongodb',
-        },
+       
       ],
     },
     {
@@ -289,6 +308,11 @@ import {
           desc: 'This App can use to chat with friends who present in Our DB',
         },
         {
+          icon: <FaCode />,
+          title: 'Tech Used : ',
+          desc: 'React, Nodejs, MongoDB',
+        },
+        {
           icon: <FiExternalLink />,
           title: 'Code : ',
           desc: 'https://github.com/SsandySANTHOSH/ChatApp-Frontend.git',
@@ -298,11 +322,7 @@ import {
           title: 'Preview : ',
           desc: 'https://melodious-liger-a93ca0.netlify.app',
         },
-        {
-          icon: <FaCode />,
-          title: 'Tech Used : ',
-          desc: 'React, Nodejs, MongoDB',
-        },
+     
       ],
     },
     {
