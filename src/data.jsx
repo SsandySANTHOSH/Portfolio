@@ -287,7 +287,7 @@ import {
         {
           icon: <FiExternalLink />,
           title: 'Back End : ',
-          desc: 'https://github.com/SsandySANTHOSH/PROJECT-PETTYCASH-Frontendnew.git',
+          desc: 'https://github.com/SsandySANTHOSH/PROJECT-PETTYCASH-FE.git',
         },
         {
           icon: <FiExternalLink />,
@@ -299,7 +299,7 @@ import {
     },
     {
       id: 2,
-      img: Work14,
+      img: Work10,
       title: 'Chat App',
       details: [
         {
@@ -314,8 +314,13 @@ import {
         },
         {
           icon: <FiExternalLink />,
-          title: 'Code : ',
+          title: 'Front End : ',
           desc: 'https://github.com/SsandySANTHOSH/ChatApp-Frontend.git',
+        },
+        {
+          icon: <FiExternalLink />,
+          title: 'Back End : ',
+          desc: 'https://github.com/SsandySANTHOSH/ChatApp-Backend.git',
         },
         {
           icon: <FiExternalLink />,
@@ -336,20 +341,61 @@ import {
           desc: 'Add ,Update or Delete User from DB',
         },
         {
+          icon: <FaCode />,
+          title: 'Tech Used : ',
+          desc: ' React js, Node js,Mongodb',
+        },
+        {
           icon: <FiExternalLink />,
-          title: 'Code : ',
+          title: 'Front End : ',
           desc: 'https://github.com/SsandySANTHOSH/CRUD-Frontend.git',
+        },
+        {
+          icon: <FiExternalLink />,
+          title: 'Back End : ',
+          desc: 'https://github.com/SsandySANTHOSH/CRUD-Backend.git',
         },
         {
           icon: <FiExternalLink />,
           title: 'Preview : ',
           desc: 'https://extraordinary-raindrop-ecc7b6.netlify.app',
         },
+       
+  
+      ],
+    },
+
+    {
+      id: 4,
+      img: Work14,
+      title: 'Zen Class Tickting Querying System',
+      details: [
+        {
+          icon: <FiFileText />,
+          title: 'Description: ',
+          desc: 'This app can Solve the Doubtes for students by rasying the queary and solved by the Mentor',
+        },
         {
           icon: <FaCode />,
           title: 'Tech Used : ',
-          desc: ' React js, Node js,Mongodb',
+          desc: ' Html,CSS,Javascript,node,mongoDB',
         },
+        {
+          icon: <FiExternalLink />,
+          title: 'Front End : ',
+          desc: 'https://github.com/SsandySANTHOSH/ZEN-clone-FE.git',
+        },
+        {
+          icon: <FiExternalLink />,
+          title: 'Back End : ',
+          desc: 'https://github.com/SsandySANTHOSH/ZEN-clone-BE.git',
+        },
+        {
+          icon: <FiExternalLink />,
+          title: 'Preview : ',
+          desc: 'https://chic-smakager-6caf1b.netlify.app/',
+        },
+   
   
       ],
     },
@@ -384,34 +430,7 @@ import {
   
   
     
-    {
-      id: 4,
-      img: Work10,
-      title: 'Rest Countries',
-      details: [
-        {
-          icon: <FiFileText />,
-          title: 'Description: ',
-          desc: 'It will fetch the API and display flags and countries',
-        },
-        {
-          icon: <FiExternalLink />,
-          title: 'Code : ',
-          desc: 'https://github.com/SsandySANTHOSH/Rest-Countries.git',
-        },
-        {
-          icon: <FiExternalLink />,
-          title: 'Preview : ',
-          desc: 'https://deluxe-cajeta-a8d185.netlify.app/',
-        },
-        {
-          icon: <FaCode />,
-          title: 'Tech Used : ',
-          desc: ' Html,CSS,Javascript',
-        },
-  
-      ],
-    },
+
     
     
     {

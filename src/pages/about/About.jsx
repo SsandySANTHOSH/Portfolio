@@ -32,7 +32,7 @@ const About = () => {
             <ul className="info__list grid">
               <Info />
             </ul>
-            <a href="https://drive.google.com/file/d/1gAlBQsWrG48Tlm_W8_IHViwsMyh2tbW4/view?usp=drive_link" download="" className="button">
+            <a href="https://drive.google.com/file/d/1g_UMtpcEUi5v__c6407jW0hQQBKAzJ_o/view?usp=drivesdk" download="" className="button">
               View CV <span className='button__icon'>
                 {/* <FaDownload /> */}
               </span>
