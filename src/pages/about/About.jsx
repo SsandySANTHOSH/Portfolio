@@ -32,7 +32,8 @@ const About = () => {
             <ul className="info__list grid">
               <Info />
             </ul>
-            <a href="https://drive.google.com/file/d/1g_UMtpcEUi5v__c6407jW0hQQBKAzJ_o/view?usp=drivesdk" download="" className="button">
+            
+            <a href="https://drive.google.com/file/d/1FOHYcX_ANACwYF-xcq5JmDGaYOACthom/view?usp=sharing" download="" className="button">
               View CV <span className='button__icon'>
                 {/* <FaDownload /> */}
               </span>
