@@ -33,7 +33,7 @@ const About = () => {
               <Info />
             </ul>
             
-            <a href="https://drive.google.com/file/d/1FOHYcX_ANACwYF-xcq5JmDGaYOACthom/view?usp=sharing" download="" className="button">
+            <a href="https://drive.google.com/file/d/1FOHYcX_ANACwYF-xcq5JmDGaYOACthom/view?usp=sharing" download="" target="_blank"  className="button">
               View CV <span className='button__icon'>
                 {/* <FaDownload /> */}
               </span>
